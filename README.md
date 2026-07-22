@@ -9,9 +9,6 @@
   </a>
 </p>
 <p align="center">
-  <em>✨ Click above to explore my live, interactive 3D Calendar Contribution Sphere!</em>
-</p>
-<p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_My_3D_Calendar_Sphere-Click_To_Launch-0077B5?style=for-the-badge&logo=threedot&logoColor=white" alt="Interactive 3D Globe" />
   </a>
