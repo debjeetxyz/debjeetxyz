@@ -8,7 +8,15 @@
     <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalendar.svg" alt="3D Sphere Preview" />
   </a>
 </p>
-
+### 📊 GitHub Dashboard
+<p align="center">
+  <iframe src="https://github-profile-card-dusky.vercel.app" width="100%" height="840px" style="border: none; background: transparent;" scrolling="no"></iframe>
+</p>
+<p align="center">
+  <a href="https://github-profile-card-dusky.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Open_Live_Dashboard-39d353?style=for-the-badge&logo=github&logoColor=white" alt="Open Live Dashboard" />
+  </a>
+</p>
 ### 🌐 Connect With Me
 <br>
 <p align="center">
