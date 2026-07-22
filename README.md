@@ -24,19 +24,18 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjeetxyz&show_icons=true&theme=tokyonight&hide_border=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debjeetxyz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=debjeetxyz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=debjeetxyz&theme=tokyonight&hide_border=true" />
 </p>
 <!--
 **debjeetxyz/debjeetxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
