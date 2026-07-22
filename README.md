@@ -5,7 +5,7 @@
 
 <!-- 3D / Isometric Contribution Graph Section -->
 <p align="center">
-  <img src="https://github.com/debjeetxyz/debjeetxyz/blob/main/metrics.cone.svg" alt="3D Isometric Contribution Graph">
+  <img src="https://github.com/debjeetxyz/debjeetxyz/blob/main/metrics.isocalender.svg" alt="3D Isometric Contribution Graph">
 </p>
 
 ---

@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.cone.svg
+          filename: metrics.isocalender.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: debjeetxyz
           template: classic
