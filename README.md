@@ -30,9 +30,8 @@
 ---
 ### GitHub Stats
 <p align="center">
-  <img src="metrics.dashboard.svg" alt="GitHub Stats" />
+  <img src="metrics.dashboard.svg" alt="GitHub Metrics Dashboard" />
 </p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on leetcode problems
