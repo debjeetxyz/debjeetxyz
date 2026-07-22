@@ -18,3 +18,12 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: debjeetxyz
+          template: classic
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_lines: yes
