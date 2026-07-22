@@ -30,7 +30,7 @@
 ---
 ### GitHub Stats
 <p align="center">
-  <img src="metrics.stats.svg" alt="GitHub Stats" />
+  <img src="metrics.dashboard.svg" alt="GitHub Stats" />
 </p>
 
 Here are some ideas to get you started:
