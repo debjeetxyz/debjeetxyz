@@ -13,12 +13,6 @@
 <p align="center">
   <img src="metrics.dashboard.svg" alt="GitHub Metrics Dashboard" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjeetxyz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeetxyz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 🌐 Connect With Me
 <br>
