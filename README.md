@@ -3,12 +3,19 @@
 
 <br>
 
-<!-- 3D / Isometric Contribution Graph Section -->
 <p align="center">
-  <img src="https://github.com/debjeetxyz/debjeetxyz/blob/main/metrics.isocalender.svg" alt="3D Isometric Contribution Graph">
+  <a href="https://github-3d-globe.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalendar.svg" alt="3D Sphere Preview" />
+  </a>
 </p>
-
----
+<p align="center">
+  <em>✨ Click above to explore my live, interactive 3D Calendar Contribution Sphere!</em>
+</p>
+<p align="center">
+  <a href="https://github-3d-globe.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_3D_Calendar_Sphere-Click_To_Launch-0077B5?style=for-the-badge&logo=threedot&logoColor=white" alt="Interactive 3D Globe" />
+  </a>
+</p>
 
 ### 🌐 Connect With Me
 <p align="center">
