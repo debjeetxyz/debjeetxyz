@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=tokyonight&hide_border=true&area=true" alt="Debjeet's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=slime&hide_border=true&area=true&start_date=2026-07-01" alt="Debjeet's Activity Graph" width="100%" />
 </p>
 
 ### 🌐 Connect With Me
