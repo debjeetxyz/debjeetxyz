@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeetxyz&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=react-dark&hide_border=true&area=true" alt="Debjeet's Activity Graph" width="100%" />
   </a>
   <br>
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
