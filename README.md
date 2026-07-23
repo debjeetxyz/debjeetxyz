@@ -11,9 +11,15 @@
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
 </p>
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Overview
+
 <p align="center">
-  <img src="metrics.dashboard.svg" alt="GitHub Metrics Dashboard" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debjeetxyz&show_icons=true&theme=react-dark&hide_border=true" width="49%" alt="Debjeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=react-dark&hide_border=true" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeetxyz&theme=react-dark&hide_border=true" width="100%" alt="Debjeet's Streak Stats" />
 </p>
 
 ### 🌐 Connect With Me
