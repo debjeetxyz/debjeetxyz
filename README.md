@@ -5,7 +5,11 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=react-dark&hide_border=true&area=true" alt="Debjeet's Activity Graph" width="100%" />
+    <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=debjeetxyz&theme=darkhub&no-frame=true&column=6" alt="debjeetxyz trophies" width="100%" />
+  </a>
+</p>
   </a>
   <br>
   <sub>🌐 <i>Click the graph above to launch my interactive 3D Cosmic Contribution Sphere!</i></sub>
