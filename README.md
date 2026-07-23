@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.eiffel.svg" alt="Live Eiffel Tower Contribution Structure" width="90%" />
+    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalender.svg" alt="Live Eiffel Tower Contribution Structure" width="90%" />
   </a>
   </a>
   <br>
