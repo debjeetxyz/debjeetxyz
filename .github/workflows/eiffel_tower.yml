@@ -1,26 +1,37 @@
-name: Generate Live Eiffel Tower Graph
+name: Generate Live Eiffel Tower Tower
 
 on:
   schedule:
-    # Runs automatically every 6 hours to fetch your live contributions
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Allows you to manually trigger it anytime
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Inverted Eiffel Tower SVG
-        uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.eiffel.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          # Custom CSS forces the isometric tiles into a tapered Eiffel Tower / Inverted Cone structure
-          extras_css: |
-            .calendar {
-              transform: rotateX(180deg) rotateZ(-45deg) !important;
-              filter: drop-shadow(0 0 10px rgba(88, 166, 255, 0.4));
-            }
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Tower Generator Script
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python .github/scripts/generate_tower.py
+
+      - name: Commit and push generated SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.eiffel.svg
+          git commit -m "chore: update live eiffel tower contribution silhouette [skip ci]" || exit 0
+          git push
