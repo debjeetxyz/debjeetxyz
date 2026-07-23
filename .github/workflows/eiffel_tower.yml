@@ -1,0 +1,26 @@
+name: Generate Live Eiffel Tower Graph
+
+on:
+  schedule:
+    # Runs automatically every 6 hours to fetch your live contributions
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allows you to manually trigger it anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Inverted Eiffel Tower SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.eiffel.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Custom CSS forces the isometric tiles into a tapered Eiffel Tower / Inverted Cone structure
+          extras_css: |
+            .calendar {
+              transform: rotateX(180deg) rotateZ(-45deg) !important;
+              filter: drop-shadow(0 0 10px rgba(88, 166, 255, 0.4));
+            }
