@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeetxyz&theme=react-dark&hide_border=true" width="100%" alt="Debjeet's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=debjeetxyz&theme=react-dark&hide_border=true&background=0D1117" width="100%" alt="Debjeet's Streak Stats" />
 </p>
 
 ### 🌐 Connect With Me
