@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.pyramid.svg" alt="3D Inverted Pyramid Structure" width="80%" />
+    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.eiffel.svg" alt="Debjeet's Live Eiffel Tower Graph" width="85%" />
+  </a>
   </a>
   <br>
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
