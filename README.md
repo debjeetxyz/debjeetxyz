@@ -1,5 +1,8 @@
 ### Hi! I'M Debjeet 👋
-<h3 align="center">B.Tech CSE (AI & ML) Student & Software Developer</h3>
+
+<br>
+
+<h2 align="center">B.Tech CSE (AI ML) Student & Software Developer</h2>
 
 <br>
 
