@@ -5,8 +5,10 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalendar.svg" alt="3D Sphere Preview" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=react-dark&hide_border=true&area=true" alt="Debjeet's Activity Graph" width="100%" />
   </a>
+  <br>
+  <sub>🌐 <i>Click the graph above to launch my interactive 3D Cosmic Contribution Sphere!</i></sub>
 </p>
 
 ### 📊 GitHub Dashboard
