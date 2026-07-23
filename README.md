@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=react-dark&hide_border=true&area=true" alt="Debjeet's Activity Graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.pyramid.svg" alt="3D Inverted Pyramid Structure" width="80%" />
   </a>
   <br>
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
