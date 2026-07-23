@@ -5,14 +5,11 @@
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=debjeetxyz&theme=darkhub&no-frame=true&column=6" alt="debjeetxyz trophies" width="100%" />
-  </a>
-</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeetxyz&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
   </a>
   <br>
-  <sub>🌐 <i>Click the graph above to launch my interactive 3D Cosmic Contribution Sphere!</i></sub>
+  <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
 </p>
 
 ### 📊 GitHub Dashboard
