@@ -14,8 +14,8 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjeetxyz&show_icons=true&theme=react-dark&hide_border=true" width="49%" alt="Debjeet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=react-dark&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=debjeetxyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Debjeet's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
