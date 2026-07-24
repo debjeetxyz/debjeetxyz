@@ -1,15 +1,24 @@
 ### Hi! I'M Debjeet 👋
 
-<br>
+Here are some ideas to get you started:
 
-<h2 align="center">B.Tech CSE (AI ML) Student & Software Developer</h2>
+- 🔭 I’m currently working on leetcode problems
+- 🌱 I’m currently learning java
+- 👀 I’m looking to collaborate on open source projects
+- 💬 Ask me about my tech journey
+- 📫 How to reach me email [purakayasthadebjeet@gmail.com]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Life is Easy!
+
+
+
+<h1 align="center">B.Tech CSE (AI ML) Student & Software Developer</h1>
 
 <br>
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalender.svg" alt="Live Eiffel Tower Contribution Structure" width="90%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalender.svg" alt="calender" width="90%" />
   </a>
   <br>
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
@@ -18,13 +27,11 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=debjeetxyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Debjeet's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=slime&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=slime&hide_border=true&area=true&start_date=2026-07-01" alt="Debjeet's Activity Graph" width="100%" />
 </p>
+
+<br>
 
 ### 🌐 Connect With Me
 <br>
@@ -42,13 +49,5 @@
 
 ---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on leetcode problems
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with dsa
-- 💬 Ask me about tech experiences
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Life is Easy!
--->
+
