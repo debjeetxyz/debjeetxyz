@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">B.Tech CSE (AI ML) Student & Software Developer</h1>
 
+
 [![](https://github-readme-stats.vercel.app/api?username=debjeetxyz&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 ![](./profile-3d-contrib/profile-green-dual.svg)
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_Live_Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live Demo" />
+    <img src="https://img.shields.io/badge/🌍_Explore_3D_Globe-0D1117?style=for-the-badge&logo=vercel&logoColor=39D353&labelColor=0D1117" alt="Explore 3D Globe" />
   </a>
 </p>
 
-<br>
+
 
 ### 🌐 Connect With Me
 
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<br>
 
 
 
