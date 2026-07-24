@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github-3d-globe.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/debjeetxyz/debjeetxyz/main/metrics.isocalender.svg" alt="calender" width="90%" />
+    [#-3d-contribution-calendar](#-3d-contribution-calendar)
+
+    ![](./profile-3d-contrib/profile-green-dual.svg)
   </a>
   <br>
   <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
