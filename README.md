@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=debjeetxyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=everforest&hide_border=true&area=true&start_date=2026-07-01" alt="Debjeet's Activity Graph" width="100%" />
 </p>
 
