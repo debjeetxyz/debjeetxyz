@@ -14,21 +14,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">B.Tech CSE (AI ML) Student & Software Developer</h1>
 
-<br>
-
-<p align="center">
-  <a href="https://github-3d-globe.vercel.app" target="_blank"><sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub></a>
-</p>
-
 [![](https://github-readme-stats.vercel.app/api?username=debjeetxyz&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 ![](./profile-3d-contrib/profile-green-dual.svg)
 
-### 📊 GitHub Overview
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjeetxyz&theme=everforest&hide_border=true&area=true&start_date=2026-07-01" alt="Debjeet's Activity Graph" width="100%" />
+  <a href="https://github-3d-globe.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live Demo" />
+  </a>
 </p>
-
 <br>
 
 ### 🌐 Connect With Me
