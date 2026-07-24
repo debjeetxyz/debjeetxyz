@@ -22,10 +22,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/🚀_View_Live_Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live Demo" />
   </a>
 </p>
+
 <br>
 
 ### 🌐 Connect With Me
-<br>
+
 <p align="center">
   <a href="https://instagram.com/debjeetpurakayastha">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
+
 
 
 
