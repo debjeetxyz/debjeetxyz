@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Life is Easy!
 
 
-
-<h1 align="center">B.Tech CSE (AI ML) Student & Software Developer</h1>
-
-
 [![](https://github-readme-stats.vercel.app/api?username=debjeetxyz&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 ![](./profile-3d-contrib/profile-green-dual.svg)
 
@@ -25,8 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/debjeetpurakayastha">
