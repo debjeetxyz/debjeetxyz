@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <a href="https://github-3d-globe.vercel.app" target="_blank">
-    [#-3d-contribution-calendar](#-3d-contribution-calendar)
-
-    ![](./profile-3d-contrib/profile-green-dual.svg)
-  </a>
-  <br>
-  <sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub>
+  <a href="https://github-3d-globe.vercel.app" target="_blank"><sub>🌐 <i>Click to launch my Contribution Sphere!</i></sub></a>
 </p>
+
+[![](https://github-readme-stats.vercel.app/api?username=debjeetxyz&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-3d-contrib/profile-green-dual.svg)
 
 ### 📊 GitHub Overview
 
